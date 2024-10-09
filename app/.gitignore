@@ -1,0 +1,59 @@
+# Gradle files
+*.iml
+.gradle
+/local.properties
+/.gradle
+build/
+
+# IDEA (Android Studio/IntelliJ) files
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+/.idea/inspectionProfiles
+/.idea/codeStyles
+/.idea/vcs.xml
+/.idea/.name
+.idea/
+
+# Android-specific files
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Built application files
+*.apk
+*.ap_
+*.aab
+
+# Generated files
+gen/
+out/
+
+# Signing files
+*.keystore
+key.jks
+
+# Kotlin build cache
+.kotlin/
+
+# Proguard
+proguard/
+
+# Test Results
+/test-results/
+test-results.xml
+coverage/
+
+# Log files
+*.log
+
+# Miscellaneous
+*.lock
